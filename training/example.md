@@ -49,7 +49,7 @@ struct Visitor {
 fn main () {
     let my_struct = Visitor {
         name: "GlobalYoung".to_string(),
-        job:"Youtuber"
+        job:"Youtuber".to_string()
     }
 }
 ```
